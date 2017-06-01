@@ -1,2 +1,2 @@
-Das ist meine erste Datei, die ich in das Repository hinzufüge.
+Das ist meine erste Datei, die ich dem Repository hinzufüge.
 Und das wars dann auch schon.
